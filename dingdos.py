@@ -10,11 +10,15 @@ import os
 
 os.system("clear")
 
+print("--------------------------------")
+
 print("Author By 𝑻•𝑹𝒆𝒙#0029")
 
 print("My Team REX RIOT COMMUNITY")
 
 print("Jangan Abuse Ngab")
+
+print("--------------------------------")
 
 ip = str(input("Ip  >>>::"))
 
